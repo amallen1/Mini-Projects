@@ -1,2 +1,2 @@
-# Middle of Word
-Program that takes the middle of any word and returns it
+# Mini-Projects
+Very basic programs since I am a beginner at programming

@@ -1,2 +1,2 @@
 # Mini-Projects
-Very basic programs since I am a beginner at programming
+Simple basic programs since I am a beginner at programming

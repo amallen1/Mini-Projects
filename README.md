@@ -1,2 +1,2 @@
-# Mini-Projects
-Short programs that I created to practice writing code
+# Middle of Word
+Program that takes the middle of any word and returns it

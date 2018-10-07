@@ -1,2 +1,2 @@
-# Mini-Projects
+# Sequence Generator
 
